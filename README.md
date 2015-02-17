@@ -1,0 +1,2 @@
+# gitpull
+belajar pull
